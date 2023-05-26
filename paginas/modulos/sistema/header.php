@@ -14,10 +14,13 @@
         rel="stylesheet" 
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" 
         crossorigin="anonymous">
+        <!-- Btn Wsp -->
+        <link href="../../../css/btnwspp/estilo.css" rel="stylesheet">
         <!-- Fontawesome -->
         <link href="../../../lib/fontawesome6/css/all.css" rel="stylesheet">
         <!-- Datatable -->
         <link href="../../../css/librerias/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+        
     </head>
 
 <body>
