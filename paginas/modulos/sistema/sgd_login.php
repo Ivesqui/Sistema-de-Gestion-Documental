@@ -51,7 +51,7 @@ body {
 
             <div class='row'>
               <div class='col s12'>
-              <img class="responsive-img" style="width: 250px;" src="../../../../Proyecto_final/img/std_documentos2.png" />
+              <img class="responsive-img" style="width: 250px;" src="../../../../../Proyecto_final/img/std_documentos2.png" />
               </div>
             </div>
             <div class='row'>
