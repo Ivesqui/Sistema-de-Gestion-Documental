@@ -33,6 +33,9 @@
 <li class="nav-item">
 <a class="nav-link" href="sgd_reportes.php"><span class="fa-solid fa-chart-pie"></span>Reporte de Documentos</a>
 </li>
+<li class="nav-item">
+<a class="nav-link" href="sgd_firma.php"><span class="fa-solid fa-signature"></span>Firma</a>
+</li>
 <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"><span class="fa-solid fa-user"></span>
           Usuario: <?php echo $_SESSION['n_usuario'];?>

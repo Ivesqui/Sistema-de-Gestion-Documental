@@ -25,7 +25,8 @@
     <div id="tablaGestorArchivos"></div>
   </p>
 </div>
-</div>  
+</div> 
+ 
 <?php include "footer.php"; ?>
 
 <script src="../../../js/gestor.js"></script>
@@ -40,6 +41,8 @@
         });
     });
 </script>
+
+
 
 
 
